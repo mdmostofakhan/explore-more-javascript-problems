@@ -21,7 +21,7 @@ function woodCalculator(chairQuantity, tableQuantity, bedQuantity) {
 
 }
 
-const totalWood = woodCalculator(0, 1, 0);
+const totalWood = woodCalculator(0, 0, 5);
 console.log(totalWood);
 
 
